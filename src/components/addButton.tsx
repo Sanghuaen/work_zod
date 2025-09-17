@@ -1,8 +1,7 @@
-import React from 'react';
+
 
 const AddButton = ({ editingIndex, isImageSelected }: { editingIndex: boolean; isImageSelected: boolean }) => {
     const isDisabled = !editingIndex && !isImageSelected;
-
     return (
         <button
             type="submit"

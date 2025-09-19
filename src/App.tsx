@@ -29,6 +29,7 @@ const initialMembers: Member[] = [
     lastName: 'กิตติสุนทรสกุล',
     photo: 'https://prod-mfp-imgsrv.tillitsdone.com/uploads/medium_2_1_0c9898e3eb.jpg',
     workHistory : 'ตัวแทนประกันชีวิต บริษัท FWD (Thailand) จำกัด มหาชน, ตัวแทนประกันวินาศภัย บริษัท FWD-GI (Thailand) จำกัด มหาชน, ผู้แนะนำการลงทุนตราสารทั่วไป, หุ้นส่วนผู้จัดการ ห้างหุ้นส่วนจำกัด ไฟร์-ดีเฟนซ์ ซัพพลาย แอนด์ เซอร์วิสส',
+    pastAchievements: 'ผลงาน',
     ministerPosition: 'สมาชิกสภาผู้แทนราษฎรจังหวัดระยอง เขตเลือกตั้งที่ 1',
     politicalParty: 'พรรคประชาชน',
   },
